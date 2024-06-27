@@ -1,6 +1,6 @@
-Developer Portfolio Website
+### Developer Portfolio Website
 
-Welcome to my developer portfolio website! This project showcases my skills, projects, and blog posts, providing insights into my journey as a developer.
+# Welcome to my developer portfolio website! This project showcases my skills, projects, and blog posts, providing insights into my journey as a developer.
 Features
 
     Portfolio Showcase: Explore a collection of my projects, each highlighting different aspects of my coding abilities and creativity.
@@ -8,13 +8,13 @@ Features
     Blog: Stay updated with my latest blog posts on topics ranging from software development to technology trends.
     Social Integration: Connect with me on social media platforms to keep up-to-date with my activities and insights.
 
-Technologies Used
+# Technologies Used
 
     Frontend: React.js, HTML5, CSS3
     
     Deployment: GitHub Pages
 
-Getting Started
+# Getting Started
 
 To run the project locally, follow these steps:
 
@@ -25,13 +25,13 @@ To run the project locally, follow these steps:
 git clone https://github.com/BILL-CHEPTOYEK/Personal-website.git
 cd your-repo
 
-Install dependencies:
+# Install dependencies:
 
 bash
 
 npm install
 
-Run the development server:
+# Run the development server:
 
 bash
 
